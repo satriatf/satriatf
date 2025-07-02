@@ -1,16 +1,38 @@
-## Hi there 👋
+### Hi there 👋 I'm Satria Tri Ferdiansyah
 
-<!--
-**satriatf/satriatf** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 I'm a student majoring in Informatics Engineering at STT Terpadu Nurul Fikri (2023–2027).  
+💻 Passionate about building user-friendly web applications with clean UI and efficient logic.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🚀 Tech Stack
+- **Frontend**: HTML, CSS, JavaScript, React.js, Styled Components, Bootstrap  
+- **Backend**: PHP, Laravel, MySQL  
+- **Tools**: Git & GitHub, VS Code  
+
+---
+
+### 🧠 Currently Learning
+- Advanced React (Hooks, Context API)
+- REST API integration
+- Fullstack workflow with Laravel & React
+
+---
+
+### 📌 Projects
+- 🎬 [GoCinema App](https://github.com/GoCinema-App): Movie ticket booking with TMDB API + Styled Components  
+- 📝 Leave Management System (Laravel + Bootstrap)  
+- 📊 Vehicle Credit Simulation (React.js with localStorage)  
+- 🌐 Personal Portfolio Website (HTML, CSS, JS, Bootstrap)
+
+---
+
+### 📫 Let's Connect!
+- LinkedIn: [linkedin.com/in/satria-tri-ferdiansyah](https://www.linkedin.com/in/satria-tri-ferdiansyah)  
+- GitHub: [github.com/satriatf](https://github.com/satriatf)  
+- Email: satriatf11@gmail.com
+
+---
+
+### ⚡ Fun Fact
+I'm always eager to explore new tech and contribute to impactful projects — one step at a time 🚀
