@@ -28,7 +28,7 @@
 ---
 
 ### 📫 Let's Connect!
-- LinkedIn: [linkedin.com/in/satria-tri-ferdiansyah](https://www.linkedin.com/in/satria-tri-ferdiansyah)  
+- LinkedIn: [linkedin.com/in/satria-tri-ferdiansyah](https://www.linkedin.com/in/satria-tri-ferdiansyah-b1089028b/)  
 - GitHub: [github.com/satriatf](https://github.com/satriatf)  
 - Email: satriatf11@gmail.com
 
